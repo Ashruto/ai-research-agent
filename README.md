@@ -1,3 +1,7 @@
+**Name:** Anahid Sherieff
+
+**Reg No:** 23BME1034
+
 # AI Research Agent (Agentic AI)
 
 An autonomous agent that takes a goal, plans, chooses tools on its own, observes results, and loops until it can give a final answer. It also has long-term memory (saved notes).
